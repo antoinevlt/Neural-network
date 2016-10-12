@@ -1,10 +1,10 @@
 # Neural-network
 Machine Learning Exercise 4: multi-class classification > neural network to recognize hand-written digits in Octave/Matlab 
 
-The neural network has 3 layers: an input layer, a
-hidden layer and an output layer. Inputs are pixel values of
-digit images. Since the images are of size 20x20, this gives us 400 input layer
-units (excluding the extra bias unit which always outputs +1).
+The neural network has 3 layers: an input layer, a hidden layer and an output layer. 
+Inputs are pixel values of digit images. Since the images are of size 20x20, this gives us 400 input layer units (excluding the extra bias unit which always outputs +1).
+Hidden layer has 25 hidden units. 
+Output layer has 10 labels, from 1 to 10 (note that "0" was mapped to label 10).
 
 ================================================
 Files included:
