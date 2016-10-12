@@ -13,8 +13,6 @@ ex4.m - Octave/MATLAB script
 
 ex4data1.mat - Training set of hand-written digits
 
-ex4weights.mat - Neural network parameters for exercise 4
-
 displayData.m - Function to help visualize the dataset
 
 fmincg.m - Function minimization routine (similar to fminunc)
@@ -23,7 +21,7 @@ sigmoid.m - Sigmoid function
 
 computeNumericalGradient.m - Numerically compute gradients
 
-checkNNGradients.m - Function to help check analytical gradients (backpropagation)
+checkNNGradients.m - Function to help check analytical gradients (i.e. computed thanks to backprop)
 
 debugInitializeWeights.m - Function for initializing weights
 
